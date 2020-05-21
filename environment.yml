@@ -1,13 +1,7 @@
-name: example-environment
+name: sunday-group-environment
 channels:
   - conda-forge
 dependencies:
   - numpy
-  - psutil
-  - toolz
+  - sympy
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
